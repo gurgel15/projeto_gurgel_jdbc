@@ -1,0 +1,5 @@
+com\castelo\App.class
+com\castelo\conexao\Conexao.class
+com\castelo\dao\PessoaPojo.class
+com\castelo\pessoa\Pessoa.class
+com\castelo\dao\PessoaDAO.class
